@@ -16,8 +16,7 @@
 
 ![image](https://user-images.githubusercontent.com/75762187/104240739-8ca64a80-542a-11eb-85d9-f2f1e7b2d61c.png)
 
-|De acuerdo con el tipo de circuito y la forma en que se seleccionan las mallas se pueden tener distintas posibilidades de conexión de las fuentes:|
-|---|
+![image](https://user-images.githubusercontent.com/75762187/104240842-b19abd80-542a-11eb-9fe1-cf75306756bb.png)
 
 •Fuentes de corriente controladas.
 
