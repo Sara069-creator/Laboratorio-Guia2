@@ -50,7 +50,7 @@ En este documento se ilustrará el uso de LVK para poder expresar voltajes en fu
 |1|Resistor de 1.2 kΩ|
 |1|Resistor de 2.2 kΩ|
 |1|Protoboard|
-#### Explicación
+#### EXPLICACION
 
 Armamos muestro circuito mixto con 3 mallas en el simulador tinkerkat 
 Para calcular la corriente de cada malla, procedemos armando 3 ecuaciones con 3 incógnitas, empezamos con la primera malla tomando en cuenta que la corriente que entra va hacer positiva y sale negativa, en este caso va a entrar 18 positivo le restamos 820(I1) le restamos 1 y le multiplicamos (I1-I2) ya que esa resistencia 1 está entre la malla 1 y la malla 2 y a esa respectiva ecuación la igualamos a 0, hacemos los respectivos procedimientos matemáticos donde nos va a salir la primera ecuación : -1.82(I1)+1(I2)= -18.
@@ -99,7 +99,7 @@ En la técnica de análisis de malla existen dos casos especiales: supermallas y
 Cuando una fuente dependiente está en una malla esencial, la fuente dependiente debería ser tratada como una fuente normal. Después de que se haya planteado la ecuación de malla, se necesita una ecuación para la fuente dependiente. Esta es una ecuación que relaciona la variable de la fuente dependiente con la corriente o tensión de la fuente de la que depende del circuito.
 
 
-#### Conclusiones
+#### CONCLUSIONES
 
 
 -	Esta práctica dio a reconocer los entendimientos sobre la resolución de ejercicios de mallas y cómo proceder a analizarlos y poder recordar/razonar las fórmulas para poder realizarlos sin ninguna pérdida de tiempo. 
@@ -109,7 +109,7 @@ Cuando una fuente dependiente está en una malla esencial, la fuente dependiente
 - La práctica realizada fue con relación al análisis de mallas que al realizarlas nos dio resultados prácticos y exactos sobre todo el diagrama, aunque existió problemas leves sobre conocimientos en el ejercicio el resultado final dio los resultados esperados y correctos.
 
 
-#### Bibliografía
+#### BIBLIOGRAFIA
 
 El método de la corriente de malla (artículo). (2015). Khan Academy. https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method
 
@@ -124,7 +124,7 @@ Colaboradores de Wikipedia. (2020, 14 octubre). Análisis de mallas. Wikipedia, 
 P. (2020, 10 abril). Ley de Kirchhoff: Análisis de mallas. HETPRO/TUTORIALES. https://hetpro-store.com/TUTORIALES/ley-de-kirchhoff-analisis-de-mallas/
 
 
-#### Anexos
+#### ANEXOS
 
 
 
