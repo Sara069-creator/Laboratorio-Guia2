@@ -14,7 +14,7 @@
 
 #### MARCO TEORICO
 
-![image](https://user-images.githubusercontent.com/76060654/104211327-f2321100-5401-11eb-8c60-01d9a0e458c7.png)
+![image](https://user-images.githubusercontent.com/75762187/104240739-8ca64a80-542a-11eb-85d9-f2f1e7b2d61c.png)
 
 |De acuerdo con el tipo de circuito y la forma en que se seleccionan las mallas se pueden tener distintas posibilidades de conexión de las fuentes:|
 |---|
