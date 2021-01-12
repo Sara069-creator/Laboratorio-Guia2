@@ -128,6 +128,6 @@ P. (2020, 10 abril). Ley de Kirchhoff: Análisis de mallas. HETPRO/TUTORIALES. h
 
 
 
-![image](https://user-images.githubusercontent.com/76060654/104234477-7b0c7500-5421-11eb-8129-f930199877ff.png)                         ![image](https://user-images.githubusercontent.com/76060654/104234472-7942b180-5421-11eb-9fb0-48298e062871.png)
+![image](https://user-images.githubusercontent.com/76060654/104234477-7b0c7500-5421-11eb-8129-f930199877ff.png)                         ![image](https://user-images.githubusercontent.com/75762187/104267880-8fbc2d80-5460-11eb-8d62-be9b02ff9f41.png)
 
 ![image](https://user-images.githubusercontent.com/76060654/104234482-7cd63880-5421-11eb-806d-78535ff5f832.png)
